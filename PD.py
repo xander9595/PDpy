@@ -257,7 +257,7 @@ if __name__ == "__main__":
     #TIME_STEP = None
     YOUNGS_MODULUS = 200.0e9
     POISSON_RATIO = 0.29
-    RHO = 7800
+    RHO = 7800  #density
     SAFTEY_FACTOR = 0.5
     MAX_ITER = 4000
     PLOT_DUMP_FREQ = 100
